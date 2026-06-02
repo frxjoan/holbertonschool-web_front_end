@@ -1,15 +1,13 @@
-# Advanced HTML Project
+# HTML Advanced
 
-This repository contains exercises and projects for advanced HTML concepts as part of the Holberton School Web Front End curriculum.
+This directory contains advanced HTML tasks focused on semantic structure and reusable page sections.
 
-## Contents
+## What You Will Find
 
-- Semantic HTML
-- Forms and validation
-- Accessibility best practices
-- Multimedia elements
-- Responsive design
+- Static page structures built with semantic tags.
+- Organized assets used by the exercises.
+- Practice files that reinforce accessibility and clean markup.
 
-## Getting Started
+## Objective
 
-Clone the repository and open the HTML files in your browser to explore the examples.
+Write valid, readable, and maintainable HTML before adding CSS or JavaScript behavior.
